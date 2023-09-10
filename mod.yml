@@ -1,0 +1,65 @@
+title: Sora Re:Fined Chain Proofs
+description: Swaps out Sora's crowns on the HUD with shiny new necklaces.
+assets:
+- name: remastered/obj/P_EX100.a.us/-8.dds
+  multi:
+    - name: remastered/obj/P_EX100.a.jp/-8.dds
+    - name: remastered/obj/P_EX100.a.xx/-8.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.a.us/-8.png
+
+- name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_BTLF.a.jp/-4.dds
+    - name: remastered/obj/P_EX100_BTLF.a.xx/-4.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_BTLF.a.us/-4.png
+
+- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  multi:
+    - name: remastered/obj/P_EX100_MAGF.a.jp/-2.dds
+    - name: remastered/obj/P_EX100_MAGF.a.xx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.a.us/-2.png
+
+- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+  multi:
+    - name: remastered/obj/P_EX100_KH1F.a.jp/-9.dds
+    - name: remastered/obj/P_EX100_KH1F.a.xx/-9.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-9.png
+
+- name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  multi:
+    - name: remastered/obj/P_EX100_TRIF.a.jp/-5.dds
+    - name: remastered/obj/P_EX100_TRIF.a.xx/-5.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TRIF.a.us/-5.png
+
+- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+  multi:
+    - name: remastered/obj/P_EX100_ULTF.a.jp/-10.dds
+    - name: remastered/obj/P_EX100_ULTF.a.xx/-10.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.a.us/-10.png
+
+- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.jp/-3.dds
+    - name: remastered/obj/P_EX100_HTLF.a.xx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-3.png
